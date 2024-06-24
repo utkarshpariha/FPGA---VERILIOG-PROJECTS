@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="synth_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1714220214">
+  <File Type="PA-TCL" Name="Top_Module.tcl"/>
+  <File Type="REPORTS-TCL" Name="Top_Module_reports.tcl"/>
+  <File Type="RDS-RDS" Name="Top_Module.vds"/>
+  <File Type="RDS-UTIL" Name="Top_Module_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="Top_Module_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="Top_Module.dcp"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ATM.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/ATM.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/BCD_Seven_Segment.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/BCD_Seven_Segment.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Binary_BCD_Converter.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/Binary_BCD_Converter.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Decoder.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/Decoder.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Deposit.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/Deposit.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Shift_Add3_algorithm.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/Shift_Add3_algorithm.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SlowClock_100Hz.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/SlowClock_100Hz.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Withdraw.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/Withdraw.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/counter.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/counter.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/debounce.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/debounce.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/eight_bit_counter.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/eight_bit_counter.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/four_to_one_Mux.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/four_to_one_Mux.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Top_Module.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/sources_1/new/Top_Module.v"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/b.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Top_Module"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/constraints.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="F:/ATM_Machine_basys3-main/ATM_Machine_basys3-main/ATM_Basys3/ATM_Basys3.srcs/constrs_1/new/constraints.xdc"/>
+        <Attr Name="ImportTime" Val="1707238288"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018"/>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>
