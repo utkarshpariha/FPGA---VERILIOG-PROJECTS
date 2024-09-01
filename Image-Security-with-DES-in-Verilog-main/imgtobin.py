@@ -20,7 +20,6 @@ for line in fileobj:
     lines.append(line.strip())
 count=8
 print(len(lines))
-love=0
 print(lines[35570])
 for x in lines:
     if(len(x)==1):
